@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'UnseenPassageSolver'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F7125A26099490CADBC189E6679CE32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0B96790730A4E83915951A21DB347FC }}
